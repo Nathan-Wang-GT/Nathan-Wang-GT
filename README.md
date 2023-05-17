@@ -1,6 +1,6 @@
 ### Hi There! Welcome to my GitHub Profile! 👋
 
-# This profile contains some of the recent projects that I have been working on. These projects range from Machine Learning to Cybersecurity to even my website!
+This profile contains some of the recent projects that I have been working on. These projects range from Machine Learning to Cybersecurity to even my website! Feel free to look around!
 <!--
 **Nathan-Wang-GT/Nathan-Wang-GT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
